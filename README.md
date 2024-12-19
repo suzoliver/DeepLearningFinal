@@ -12,4 +12,3 @@ This is the code for the Leak Test section of the paper, where fake data is gene
 FigureGen:
 This is the code used to generate Figures 3, 4, and 5 in the report.
 
-I have also uploaded the pre-processed data, both with and without the gumpy flipping bug in the .npy files 
